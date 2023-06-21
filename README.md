@@ -63,8 +63,6 @@ still learning... on the quest to become a DevOpssssssssssss
 
 ![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=peterxcli&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=peterxcli&theme=react-dark&hide_border=true&area=true)
-
 <img align="left" height="330px" width="450px" src="https://wakatime.com/share/@peterlee/551fee59-5682-40e5-825e-2957f8740564.svg" >
 
 <img align="left" height="330px" width="450px" src="https://wakatime.com/share/@peterlee/99ce4663-dccf-4a8e-8a01-d5767f15340f.svg" >
