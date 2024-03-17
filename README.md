@@ -1,14 +1,16 @@
  # peterxcli
 
-<!-- ## Hi there 👋
+## Hi there 👋
 
 My name is Xu Cheng Li (Peter Lee) , and I am currently studying at NCKU CSIE
-still learning... on the quest to become a DevOpssssssssssss
 
-- 🔭 I’m currently working on: Golang and NextJs for Web Development
+<!-- - 🔭 I’m currently working on: Golang and NextJs for Web Development
 - 🌱 I’m currently learning: distributed system, 𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
 - 👯 I’m looking to collaborate on: distributed system
 - 💬 Ask me about anything [here](mailto:f74114752@gs.ncku.edu.tw)
+
+-->
+
 - 📫 How to reach me:
 
 [![Facebook](https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label=)](https://www.facebook.com/peterxcli)
@@ -62,6 +64,3 @@ still learning... on the quest to become a DevOpssssssssssss
 ![github status](https://github-readme-stats.vercel.app/api?username=peterxcli&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true)
 
 ![github status](https://github-readme-stats.vercel.app/api/top-langs/?username=peterxcli&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true)
-
-<img align="left" height="330px" width="450px" src="https://wakatime.com/share/@peterlee/99ce4663-dccf-4a8e-8a01-d5767f15340f.svg" >
- -->
