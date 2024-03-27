@@ -6,21 +6,21 @@
             I'm Peter, currently diving into the depths of Computer Science and
             Engineering at NCKU CSIE. With a passion for exploring new
             technologies and building solutions, I find joy in coding 💻,
-            learning 👨‍🏫, and collaborating on innovative projects. 🚀{" "}
+            learning 👨‍🏫, and collaborating on innovative projects. 🚀
         </p>
-        <h2>📫 How to Reach Me</h2>{" "}
+        <h2>📫 How to Reach Me</h2>
         <a href="https://www.facebook.com/peterxcli">
             <img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label="
                 alt="Facebook"
             />
-        </a>{" "}
+        </a>
         <a href="https://www.linkedin.com/in/peterxcli/">
             <img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="
                 alt="LinkedIn"
             />
-        </a>{" "}
+        </a>
         <a href="mailto:peterxcli@gmail.com">
             <img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="
@@ -54,7 +54,7 @@
         <img
             src="https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label="
             alt="C#"
-        />{" "}
+        />
     </p>
     <p align="left">
         <h3>Frameworks 🛠️</h3>
@@ -157,7 +157,7 @@
         <img
             src="https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label="
             alt="Oracle"
-        />{" "}
+        />
     </p>
     <div align="center">
         <table>
