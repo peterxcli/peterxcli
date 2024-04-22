@@ -192,3 +192,5 @@
         </table>
     </div>
 </div>
+
+<a href="https://gitroll.io/profile/uDZR2iy40uGPTqBbgbOYl96gAi1u2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uDZR2iy40uGPTqBbgbOYl96gAi1u2" alt="GitRoll Profile Badge"/></a>
