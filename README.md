@@ -1,12 +1,11 @@
 <div>
     <div align="center">
-        <h1>Xu Cheng Li (Peter Lee) 👋</h1>
         <h2>About Me</h2>
         <p>
             I'm Peter, currently diving into the depths of Computer Science and
             Engineering at NCKU CSIE. With a passion for exploring new
-            technologies and building solutions, I find joy in coding 💻,
-            learning 👨‍🏫, and collaborating on innovative projects. 🚀
+            technologies and building solutions. Focusing on distributed systems.
+            Currently working on some projects, including <a href="https://github.com/apache/kafka">Kafka</a> and <a href="https://github.com/apache/ozone">Ozone</a>.
         </p>
         <h2>📫 How to Reach Me</h2>
         <a href="https://www.facebook.com/peterxcli">
