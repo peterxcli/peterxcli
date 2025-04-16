@@ -188,6 +188,20 @@
                     />
                 </td>
             </tr>
+            <tr>
+                <td align="center">
+                    <img
+                        src="histograms/peterxcli-apache-ozone-contribution-histogram.png"
+                        alt="GitHub Streak"
+                    />
+                </td>
+                <td align="center">
+                    <img
+                        src="histograms/peterxcli-apache-ozone-contribution-histogram.png"
+                        alt="Wakatime Stats"
+                    />
+                </td>
+            </tr>
         </table>
     </div>
 </div>
