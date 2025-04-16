@@ -11,8 +11,15 @@ on:
         type: string
         default: 'peterxcli,apache/ozone'
 
+      exclude_review:
+        description: 'Exclude review contributions'
+        required: false
+        type: boolean
+        default: false
+
 env:
-  TARGETS: ${{ inputs.targets }} || 'peterxcli,apache/ozone'
+  DEFAULT_TARGETS: 'peterxcli,apache/ozone'
+  EXCLUDE_REVIEW: 'false'
 
 jobs:
   update-histogram:
@@ -22,11 +29,12 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Contribution Histogram
-        uses: peterxcli/gh-contribution-histogram-action@v1.0
+        uses: peterxcli/gh-contribution-histogram-action@main
         with:
-          targets: ${{ env.TARGETS }}
+          targets: ${{ github.event.inputs.targets || env.DEFAULT_TARGETS }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output_dir: 'histograms'
+          exclude_authored_from_reviewed: ${{ github.event.inputs.exclude_review || env.EXCLUDE_REVIEW }}
 
       - name: Commit and push updated image
         run: |
