@@ -40,7 +40,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add histograms/*.png
+          git add histograms/*.svg
           git commit -m "Update PR histogram" || echo "No changes to commit"
           git push
         env:
