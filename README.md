@@ -158,6 +158,10 @@
             alt="Oracle"
         />
     </p>
+    <img
+        src="histograms/peterxcli-apache-ozone-contribution-histogram.svg"
+        alt="Wakatime Stats"
+    />
     <div align="center">
         <table>
             <tr>
@@ -184,20 +188,6 @@
                 <td align="center">
                     <img
                         src="https://github-readme-stats.vercel.app/api/wakatime?username=peterlee&theme=github_dark_dimmed&layout=compact&langs_count=10"
-                        alt="Wakatime Stats"
-                    />
-                </td>
-            </tr>
-            <tr>
-                <td align="center">
-                    <img
-                        src="histograms/peterxcli-apache-ozone-contribution-histogram.png"
-                        alt="GitHub Streak"
-                    />
-                </td>
-                <td align="center">
-                    <img
-                        src="histograms/peterxcli-apache-ozone-contribution-histogram.png"
                         alt="Wakatime Stats"
                     />
                 </td>
