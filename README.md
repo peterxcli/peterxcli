@@ -27,7 +27,7 @@
             />
         </a>
     </div>
-    <h2 align="center">Skills 🛠️</h2>
+<!--     <h2 align="center">Skills 🛠️</h2>
     <p align="left">
         <h3>Languages 💻</h3>
         <img
@@ -157,11 +157,13 @@
             src="https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label="
             alt="Oracle"
         />
-    </p>
+    </p> -->
+    <h2 align="center">Open Source Contribution</h2>
     <img
         src="histograms/peterxcli-apache-ozone-contribution-histogram.svg"
         alt="Wakatime Stats"
     />
+    <h2 align="center">Metrics</h2>
     <div align="center">
         <table>
             <tr>
