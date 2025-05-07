@@ -5,7 +5,7 @@
             I'm Peter, currently diving into the depths of Computer Science and
             Engineering at NCKU CSIE. With a passion for exploring new
             technologies and building solutions. Focusing on distributed systems.
-            Currently working on some OSS projects, including <a href="https://github.com/apache/kafka">Kafka</a> and <a href="https://github.com/apache/ozone">Ozone</a>.
+            Currently working on some OSS projects, including <a href="https://github.com/apache/ozone">Ozone</a> and <a href="https://github.com/apache/kafka">Kafka</a>.
         </p>
         <h2>📫 How to Reach Me</h2>
         <a href="https://www.facebook.com/peterxcli">
