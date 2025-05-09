@@ -1,13 +1,13 @@
 <div>
     <div align="center">
-        <h2>About Me</h2>
+<!--         <h2>About Me</h2> -->
         <p>
             I'm Peter, currently diving into the depths of Computer Science and
             Engineering at NCKU CSIE. With a passion for exploring new
             technologies and building solutions. Focusing on distributed systems.
             Currently working on some OSS projects, including <a href="https://github.com/apache/ozone">Ozone</a> and <a href="https://github.com/apache/kafka">Kafka</a>.
         </p>
-        <h2>📫 How to Reach Me</h2>
+<!--         <h2>📫 How to Reach Me</h2> -->
         <a href="https://www.facebook.com/peterxcli">
             <img
                 src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1877F2&logo=Facebook&logoColor=FFFFFF&label="
