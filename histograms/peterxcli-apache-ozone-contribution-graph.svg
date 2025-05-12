@@ -310,7 +310,7 @@
                 
                 
                 
-                C756.25,354.3478260869565 818.75,318.77470355731225 850.0,318.77470355731225
+                C756.25,354.3478260869565 818.75,300.9881422924901 850.0,300.9881422924901
             
             
             
@@ -319,7 +319,7 @@
                 
                 
                 
-                C881.25,318.77470355731225 943.75,247.62845849802375 975.0,247.62845849802375
+                C881.25,300.9881422924901 943.75,247.62845849802375 975.0,247.62845849802375
             
             
             
@@ -445,7 +445,7 @@
         
         
         
-        <circle cx="850.0" cy="318.77470355731225" r="5" fill="#4c71f2" opacity="0">
+        <circle cx="850.0" cy="300.9881422924901" r="5" fill="#4c71f2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0s" fill="freeze" />
         </circle>
     
@@ -478,7 +478,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
         <rect x="130" y="155" width="233" height="30" rx="5" ry="5" fill="#4c71f2" fill-opacity="0.5" />
         <text x="140" y="177" font-family="Arial" font-size="20" fill="#434d58">
-            Total PRs Reviewed: <tspan font-weight="bold">53</tspan>
+            Total PRs Reviewed: <tspan font-weight="bold">54</tspan>
         </text>
     </g>
 </svg>
