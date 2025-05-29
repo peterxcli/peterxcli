@@ -160,7 +160,7 @@
     </p> -->
     <h2 align="center">Open Source Contribution</h2>
     <img
-        src="histograms/peterxcli-apache-ozone-contribution-graph.svg"
+        src="images/peterxcli-apache-ozone-contribution-graph.svg"
         alt="Wakatime Stats"
     />
     <h2 align="center">Metrics</h2>
