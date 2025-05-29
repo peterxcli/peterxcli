@@ -28,12 +28,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Contribution Histogram
-        uses: peterxcli/gh-contribution-histogram-action@main
+      - name: Generate Contribution Graph
+        uses: peterxcli/gh-contribution-graph-action@main
         with:
           targets: ${{ github.event.inputs.targets || env.DEFAULT_TARGETS }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_dir: 'histograms'
+          output_dir: 'images'
           exclude_authored_from_reviewed: ${{ github.event.inputs.exclude_review || env.EXCLUDE_REVIEW }}
 
       - name: Commit and push updated image
