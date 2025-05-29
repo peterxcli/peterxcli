@@ -9,7 +9,7 @@ on:
         description: 'Target repositories and usernames (format: username,owner/repo [username,owner/repo ...])'
         required: true
         type: string
-        default: 'peterxcli,apache/ozone'
+        default: 'peterxcli@apache/ozone, peterxcli@apache/kafka'
 
       exclude_review:
         description: 'Exclude review contributions'
