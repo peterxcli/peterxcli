@@ -18,7 +18,7 @@ on:
         default: false
 
 env:
-  DEFAULT_TARGETS: 'peterxcli,apache/ozone'
+  DEFAULT_TARGETS: 'peterxcli@apache/ozone, peterxcli@apache/kafka'
   EXCLUDE_REVIEW: 'false'
 
 jobs:
