@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1200" height="600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Define animations -->
+    <defs>
+        <style type="text/css">
+            @keyframes drawLine {
+                0% {
+                    stroke-dashoffset: 2000;
+                }
+                100% {
+                    stroke-dashoffset: 0;
+                }
+            }
+            .animated-line {
+                stroke-dasharray: 2000;
+                stroke-dashoffset: 2000;
+                animation: drawLine 1.5s ease-in-out forwards;
+            }
+            /* Remove the general animated-point class as we'll create individual dot animations */
+        </style>
+    </defs>
+    
+    <!-- Define chart background -->
+    <rect x="0" y="0" width="1200" height="600" fill="#fffefe"/>
+
+    <!-- Y-axis line -->
+    <line x1="100" y1="100" x2="100" y2="550" stroke="#555555" stroke-width="1.5"/>
+
+    <!-- X-axis line -->
+    <line x1="100" y1="550" x2="1100" y2="550" stroke="#555555" stroke-width="1.5"/>
+
+    <!-- Chart grid -->
+    <g stroke="#ffffff" stroke-width="1">
+        
+        
+        
+            
+            <line x1="100" y1="550.0" x2="1100" y2="550.0" stroke-opacity="0.6"/>
+        
+            
+            <line x1="100" y1="460.0" x2="1100" y2="460.0" stroke-opacity="0.6"/>
+        
+            
+            <line x1="100" y1="370.0" x2="1100" y2="370.0" stroke-opacity="0.6"/>
+        
+            
+            <line x1="100" y1="280.0" x2="1100" y2="280.0" stroke-opacity="0.6"/>
+        
+            
+            <line x1="100" y1="190.0" x2="1100" y2="190.0" stroke-opacity="0.6"/>
+        
+            
+            <line x1="100" y1="100.0" x2="1100" y2="100.0" stroke-opacity="0.6"/>
+        
+        
+        
+            
+            <line x1="100.0" y1="100" x2="100.0" y2="550" stroke-opacity="0.6"/>
+        
+            
+            <line x1="350.0" y1="100" x2="350.0" y2="550" stroke-opacity="0.6"/>
+        
+            
+            <line x1="600.0" y1="100" x2="600.0" y2="550" stroke-opacity="0.6"/>
+        
+            
+            <line x1="850.0" y1="100" x2="850.0" y2="550" stroke-opacity="0.6"/>
+        
+            
+            <line x1="1100.0" y1="100" x2="1100.0" y2="550" stroke-opacity="0.6"/>
+        
+    </g>
+
+    <!-- Y-axis numbers -->
+    
+        
+        <text x="1112" y="555.0" font-family="Arial" font-size="18" text-anchor="start" fill="#434d58">0</text>
+    
+        
+        <text x="1112" y="465.0" font-family="Arial" font-size="18" text-anchor="start" fill="#434d58">2</text>
+    
+        
+        <text x="1112" y="375.0" font-family="Arial" font-size="18" text-anchor="start" fill="#434d58">4</text>
+    
+        
+        <text x="1112" y="285.0" font-family="Arial" font-size="18" text-anchor="start" fill="#434d58">6</text>
+    
+        
+        <text x="1112" y="195.0" font-family="Arial" font-size="18" text-anchor="start" fill="#434d58">8</text>
+    
+        
+        <text x="1112" y="105.0" font-family="Arial" font-size="18" text-anchor="start" fill="#434d58">11</text>
+    
+
+    <!-- Chart title -->
+    <text x="600" y="65" font-family="Arial" font-size="30" text-anchor="middle" fill="#434d58">
+        Contribution History of <tspan font-weight="bold" fill="#2f80ed">peterxcli</tspan> in <tspan font-weight="bold" fill="#2f80ed">apache/kafka</tspan>
+    </text>
+    
+    <!-- X-axis labels (months) -->
+    
+        
+        <text x="100.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 100.0, 580)" fill="#434d58">
+            2024-09
+        </text>
+    
+        
+        <text x="350.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 350.0, 580)" fill="#434d58">
+            2024-10
+        </text>
+    
+        
+        <text x="600.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 600.0, 580)" fill="#434d58">
+            2024-11
+        </text>
+    
+        
+        <text x="850.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 850.0, 580)" fill="#434d58">
+            2024-12
+        </text>
+    
+        
+        <text x="1100.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 1100.0, 580)" fill="#434d58">
+            2025-01
+        </text>
+    
+    
+    <!-- Y-axis label -->
+    <text x="80" y="325" font-family="Arial" font-size="22" text-anchor="middle" transform="rotate(-90, 80, 325)" font-weight="bold" fill="#434d58">
+        Number of Pull Requests
+    </text>
+    
+    <!-- Plot authored PRs line -->
+    <path
+        fill="none"
+        stroke="#2f80ed"
+        stroke-width="3"
+        class="animated-line"
+        d="
+            
+            
+            M100.0,550.0
+            
+            
+            
+            
+                
+                
+                
+                
+                C162.5,550.0 287.5,427.27272727272725 350.0,427.27272727272725
+            
+            
+            
+            
+                
+                
+                
+                
+                C412.5,427.27272727272725 537.5,304.5454545454545 600.0,304.5454545454545
+            
+            
+            
+            
+                
+                
+                
+                
+                C662.5,304.5454545454545 787.5,140.90909090909093 850.0,140.90909090909093
+            
+            
+            
+            
+                
+                
+                
+                
+                C912.5,140.90909090909093 1037.5,468.1818181818182 1100.0,468.1818181818182
+            "
+    />
+    
+    <!-- Plot reviewed PRs line -->
+    <path
+        fill="none"
+        stroke="#4c71f2"
+        stroke-width="3"
+        class="animated-line"
+        d="
+            
+            
+            M100.0,509.0909090909091
+            
+            
+            
+            
+                
+                
+                
+                
+                C162.5,509.0909090909091 287.5,468.1818181818182 350.0,468.1818181818182
+            
+            
+            
+            
+                
+                
+                
+                
+                C412.5,468.1818181818182 537.5,263.6363636363636 600.0,263.6363636363636
+            
+            
+            
+            
+                
+                
+                
+                
+                C662.5,263.6363636363636 787.5,304.5454545454545 850.0,304.5454545454545
+            
+            
+            
+            
+                
+                
+                
+                
+                C912.5,304.5454545454545 1037.5,509.0909090909091 1100.0,509.0909090909091
+            "
+    />
+    
+    <!-- Authored data points with values -->
+    
+        
+        
+        
+        <circle cx="100.0" cy="550.0" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.0s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="350.0" cy="427.27272727272725" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.3s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="600.0" cy="304.5454545454545" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="850.0" cy="140.90909090909093" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.9s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="1100.0" cy="468.1818181818182" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2s" fill="freeze" />
+        </circle>
+    
+    
+    <!-- Reviewed data points with values -->
+    
+        
+        
+        
+        <circle cx="100.0" cy="509.0909090909091" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.0s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="350.0" cy="468.1818181818182" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.3s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="600.0" cy="263.6363636363636" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="850.0" cy="304.5454545454545" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.9s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="1100.0" cy="509.0909090909091" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2s" fill="freeze" />
+        </circle>
+    
+        
+    <!-- Authored legend item -->
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0s" fill="freeze" />
+        <rect x="130" y="115" width="233" height="30" rx="5" ry="5" fill="#2f80ed" fill-opacity="0.5" />
+        <text x="140" y="137" font-family="Arial" font-size="20" fill="#434d58">
+            Total PRs Authored: <tspan font-weight="bold">21.0</tspan>
+        </text>
+    </g>
+    
+    <!-- Reviewed legend item -->
+    <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
+        <rect x="130" y="155" width="233" height="30" rx="5" ry="5" fill="#4c71f2" fill-opacity="0.5" />
+        <text x="140" y="177" font-family="Arial" font-size="20" fill="#434d58">
+            Total PRs Reviewed: <tspan font-weight="bold">17</tspan>
+        </text>
+    </g>
+</svg>
