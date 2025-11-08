@@ -197,7 +197,7 @@
                 
                 
                 
-                C162.5,509.0909090909091 287.5,509.0909090909091 350.0,509.0909090909091
+                C162.5,509.0909090909091 287.5,468.1818181818182 350.0,468.1818181818182
             
             
             
@@ -206,7 +206,7 @@
                 
                 
                 
-                C412.5,509.0909090909091 537.5,427.27272727272725 600.0,427.27272727272725
+                C412.5,468.1818181818182 537.5,263.6363636363636 600.0,263.6363636363636
             
             
             
@@ -215,7 +215,7 @@
                 
                 
                 
-                C662.5,427.27272727272725 787.5,550.0 850.0,550.0
+                C662.5,263.6363636363636 787.5,304.5454545454545 850.0,304.5454545454545
             
             
             
@@ -224,7 +224,7 @@
                 
                 
                 
-                C912.5,550.0 1037.5,550.0 1100.0,550.0
+                C912.5,304.5454545454545 1037.5,509.0909090909091 1100.0,509.0909090909091
             "
     />
     
@@ -278,28 +278,28 @@
         
         
         
-        <circle cx="350.0" cy="509.0909090909091" r="5" fill="#4c71f2" opacity="0">
+        <circle cx="350.0" cy="468.1818181818182" r="5" fill="#4c71f2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.3s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="600.0" cy="427.27272727272725" r="5" fill="#4c71f2" opacity="0">
+        <circle cx="600.0" cy="263.6363636363636" r="5" fill="#4c71f2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="850.0" cy="550.0" r="5" fill="#4c71f2" opacity="0">
+        <circle cx="850.0" cy="304.5454545454545" r="5" fill="#4c71f2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.9s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="1100.0" cy="550.0" r="5" fill="#4c71f2" opacity="0">
+        <circle cx="1100.0" cy="509.0909090909091" r="5" fill="#4c71f2" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2s" fill="freeze" />
         </circle>
     
@@ -318,7 +318,7 @@
         <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze" />
         <rect x="130" y="155" width="233" height="30" rx="5" ry="5" fill="#4c71f2" fill-opacity="0.5" />
         <text x="140" y="177" font-family="Arial" font-size="20" fill="#434d58">
-            Total PRs Reviewed: <tspan font-weight="bold">5.0</tspan>
+            Total PRs Reviewed: <tspan font-weight="bold">17</tspan>
         </text>
     </g>
 </svg>
