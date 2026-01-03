@@ -28,9 +28,8 @@ I am a senior student at National Cheng Kung University (NCKU CSIE) and an Apach
 
 ### Metrics
 
-| General Stats | Language Usage |
+| ![lang](https://wakatime.com/share/@peterlee/e3403f35-5013-4823-9847-677b2025d6dc.svg) | |
 | --- | --- |
-| ![lang](https://wakatime.com/share/@peterlee/e3403f35-5013-4823-9847-677b2025d6dc.svg) |  |
 |  |  |
 
 ---
