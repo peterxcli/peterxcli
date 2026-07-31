@@ -23,8 +23,13 @@ I am PMC member of Apache Ozone, focused on distributed systems and database int
   - ![peterxcli-apache-iceberg-rust-contribution-graph](images/peterxcli-apache-iceberg-rust-contribution-graph.svg)
 - Apache Kafka
   - [My PRs](https://github.com/apache/kafka/pulls?q=is:pr+author:peterxcli+is:merged)
+  - ![peterxcli-apache-kafka-contribution-graph](images/peterxcli-apache-kafka-contribution-graph.svg)
 - Moonlink
   - [My PRs](https://github.com/Mooncake-Labs/moonlink/pulls?q=is:pr+author:peterxcli+is:merged)
+  - ![peterxcli-mooncake-labs-moonlink-contribution-graph](images/peterxcli-Mooncake-Labs-moonlink-contribution-graph.svg)
+- DuckDB
+  - [My PRs](https://github.com/duckdb/duckdb/pulls?q=is:pr+author:peterxcli+is:merged)
+  - ![peterxcli-duckdb-duckdb-contribution-graph](images/peterxcli-duckdb-duckdb-contribution-graph.svg)
 
 ---
 
