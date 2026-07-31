@@ -9,7 +9,7 @@ on:
         description: 'Target repositories and usernames (format: username,owner/repo [username,owner/repo ...])'
         required: true
         type: string
-        default: 'peterxcli@apache/ozone, peterxcli@apache/kafka'
+        default: 'peterxcli@apache/ozone, peterxcli@apache/kafka, peterxcli@apache/datafusion-comet, peterxcli@apache/datafusion, peterxcli@apache/iceberg-rust, peterxcli@apache/arrow-rs'
 
       exclude_review:
         description: 'Exclude review contributions'
@@ -18,7 +18,7 @@ on:
         default: false
 
 env:
-  DEFAULT_TARGETS: 'peterxcli@apache/ozone, peterxcli@apache/kafka'
+  DEFAULT_TARGETS: 'peterxcli@apache/ozone, peterxcli@apache/kafka, peterxcli@apache/datafusion-comet, peterxcli@apache/datafusion, peterxcli@apache/iceberg-rust, peterxcli@apache/arrow-rs'
   EXCLUDE_REVIEW: 'false'
 
 jobs:
