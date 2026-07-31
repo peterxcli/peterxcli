@@ -10,32 +10,32 @@ on:
         required: true
         type: string
         default: |
-          peterxcli@apache/ozone
-          peterxcli@apache/kafka
-          peterxcli@apache/datafusion-comet
-          peterxcli@apache/datafusion
-          peterxcli@apache/iceberg-rust
-          peterxcli@apache/arrow-rs
-          peterxcli@duckdb/duckdb
+          peterxcli@apache/ozone,
+          peterxcli@apache/kafka,
+          peterxcli@apache/datafusion-comet,
+          peterxcli@apache/datafusion,
+          peterxcli@apache/iceberg-rust,
+          peterxcli@apache/arrow-rs,
+          peterxcli@duckdb/duckdb,
           peterxcli@Mooncake-Labs/moonlink
 
       exclude_review:
         description: 'Exclude review contributions'
-        required: false
+        required: true
         type: boolean
-        default: false
+        default: true
 
 env:
   DEFAULT_TARGETS: |
-    peterxcli@apache/ozone
-    peterxcli@apache/kafka
-    peterxcli@apache/datafusion-comet
-    peterxcli@apache/datafusion
-    peterxcli@apache/iceberg-rust
-    peterxcli@apache/arrow-rs
-    peterxcli@duckdb/duckdb
+    peterxcli@apache/ozone,
+    peterxcli@apache/kafka,
+    peterxcli@apache/datafusion-comet,
+    peterxcli@apache/datafusion,
+    peterxcli@apache/iceberg-rust,
+    peterxcli@apache/arrow-rs,
+    peterxcli@duckdb/duckdb,
     peterxcli@Mooncake-Labs/moonlink
-  EXCLUDE_REVIEW: 'false'
+  EXCLUDE_REVIEW: 'true'
 
 jobs:
   update-histogram:
