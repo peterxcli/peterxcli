@@ -1,6 +1,6 @@
 # Peter Lee (李緒成)
 
-I am a senior student at National Cheng Kung University (NCKU CSIE) and an Apache Ozone Committer focused on distributed systems and database internals. My work involves optimizing storage engines, improving system throughput, and contributing to core infrastructure in the open-source ecosystem.
+I am PMC member of Apache Ozone, focused on distributed systems and database internals. My work involves optimizing storage/query engines, improving system throughput, and contributing to core infrastructure in the open-source ecosystem.
 
 ---
 
