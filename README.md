@@ -6,9 +6,21 @@ I am a senior student at National Cheng Kung University (NCKU CSIE) and an Apach
 
 ### Open Source Contribution
 
-- Apache Ozone (Committer)
+- Apache Ozone (PMC Member)
   - [My PRs](https://github.com/apache/ozone/pulls?q=is:pr+author:peterxcli)
   - ![peterxcli-apache-ozone-contribution-graph](images/peterxcli-apache-ozone-contribution-graph.svg)
+- DataFusion Comet
+  - [My PRs](https://github.com/apache/datafusion-comet/pulls?q=is:pr+author:peterxcli+is:merged)
+  - ![peterxcli-apache-datafusion-comet-contribution-graph](images/peterxcli-apache-datafusion-comet-contribution-graph.svg)
+- DataFusion
+  - [My PRs](https://github.com/apache/datafusion/pulls?q=is:pr+author:peterxcli+is:merged)
+  - ![peterxcli-apache-datafusion-contribution-graph](images/peterxcli-apache-datafusion-contribution-graph.svg)
+- Arrow-rs
+  - [My PRs](https://github.com/apache/arrow-rs/pulls?q=is:pr+author:peterxcli+is:merged)
+  - ![peterxcli-apache-arrow-rs-contribution-graph](images/peterxcli-apache-arrow-rs-contribution-graph.svg)
+- Iceberg-rust
+  - [My PRs](https://github.com/apache/iceberg-rust/pulls?q=is:pr+author:peterxcli+is:merged)
+  - ![peterxcli-apache-iceberg-rust-contribution-graph](images/peterxcli-apache-iceberg-rust-contribution-graph.svg)
 - Apache Kafka
   - [My PRs](https://github.com/apache/kafka/pulls?q=is:pr+author:peterxcli+is:merged)
 - Moonlink
@@ -33,3 +45,4 @@ I am a senior student at National Cheng Kung University (NCKU CSIE) and an Apach
 |  |  |
 
 ---
+
