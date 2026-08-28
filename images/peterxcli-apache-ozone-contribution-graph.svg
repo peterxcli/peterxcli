@@ -532,7 +532,7 @@
                 
                 
                 
-                C1072.2222222222222,533.3024118738405 1090.7407407407409,550.0 1100.0,550.0
+                C1072.2222222222222,533.3024118738405 1090.7407407407409,508.2560296846011 1100.0,508.2560296846011
             "
     />
     
@@ -986,7 +986,7 @@
         
         
         
-        <circle cx="1100.0" cy="550.0" r="5" fill="#2f80ed" opacity="0">
+        <circle cx="1100.0" cy="508.2560296846011" r="5" fill="#2f80ed" opacity="0">
             <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.4464285714285714s" fill="freeze" />
         </circle>
     
@@ -1196,7 +1196,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0s" fill="freeze" />
             <rect x="130" y="115" width="233" height="30" rx="5" ry="5" fill="#2f80ed" fill-opacity="0.5" />
             <text x="140" y="137" font-family="Arial" font-size="20" fill="#434d58">
-                Total PRs Authored: <tspan font-weight="bold">86</tspan>
+                Total PRs Authored: <tspan font-weight="bold">91</tspan>
             </text>
         </g>
     </a>
