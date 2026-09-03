@@ -58,16 +58,19 @@
             <line x1="100.0" y1="100" x2="100.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="300.0" y1="100" x2="300.0" y2="550" stroke-opacity="0.6"/>
+            <line x1="266.66666666666663" y1="100" x2="266.66666666666663" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="500.0" y1="100" x2="500.0" y2="550" stroke-opacity="0.6"/>
+            <line x1="433.3333333333333" y1="100" x2="433.3333333333333" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="700.0" y1="100" x2="700.0" y2="550" stroke-opacity="0.6"/>
+            <line x1="600.0" y1="100" x2="600.0" y2="550" stroke-opacity="0.6"/>
         
             
-            <line x1="900.0" y1="100" x2="900.0" y2="550" stroke-opacity="0.6"/>
+            <line x1="766.6666666666666" y1="100" x2="766.6666666666666" y2="550" stroke-opacity="0.6"/>
+        
+            
+            <line x1="933.3333333333334" y1="100" x2="933.3333333333334" y2="550" stroke-opacity="0.6"/>
         
             
             <line x1="1100.0" y1="100" x2="1100.0" y2="550" stroke-opacity="0.6"/>
@@ -111,36 +114,43 @@
     
     
         
-        <text x="300.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 300.0, 580)" fill="#434d58">
+        <text x="266.66666666666663" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 266.66666666666663, 580)" fill="#434d58">
             2026-02
         </text>
     
     
     
         
-        <text x="500.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 500.0, 580)" fill="#434d58">
+        <text x="433.3333333333333" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 433.3333333333333, 580)" fill="#434d58">
             2026-05
         </text>
     
     
     
         
-        <text x="700.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 700.0, 580)" fill="#434d58">
+        <text x="600.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 600.0, 580)" fill="#434d58">
             2026-06
         </text>
     
     
     
         
-        <text x="900.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 900.0, 580)" fill="#434d58">
+        <text x="766.6666666666666" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 766.6666666666666, 580)" fill="#434d58">
             2026-07
         </text>
     
     
     
         
-        <text x="1100.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 1100.0, 580)" fill="#434d58">
+        <text x="933.3333333333334" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 933.3333333333334, 580)" fill="#434d58">
             2026-08
+        </text>
+    
+    
+    
+        
+        <text x="1100.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 1100.0, 580)" fill="#434d58">
+            2026-09
         </text>
     
     
@@ -168,7 +178,7 @@
                 
                 
                 
-                C150.0,550.0 250.0,521.7868338557994 300.0,521.7868338557994
+                C141.66666666666666,550.0 224.99999999999997,521.7868338557994 266.66666666666663,521.7868338557994
             
             
             
@@ -177,7 +187,7 @@
                 
                 
                 
-                C350.0,521.7868338557994 450.0,550.0 500.0,550.0
+                C308.3333333333333,521.7868338557994 391.66666666666663,550.0 433.3333333333333,550.0
             
             
             
@@ -186,7 +196,7 @@
                 
                 
                 
-                C550.0,550.0 650.0,479.46708463949847 700.0,479.46708463949847
+                C475.0,550.0 558.3333333333334,479.46708463949847 600.0,479.46708463949847
             
             
             
@@ -195,7 +205,7 @@
                 
                 
                 
-                C750.0,479.46708463949847 850.0,140.90909090909093 900.0,140.90909090909093
+                C641.6666666666666,479.46708463949847 725.0,140.90909090909093 766.6666666666666,140.90909090909093
             
             
             
@@ -204,7 +214,16 @@
                 
                 
                 
-                C950.0,140.90909090909093 1050.0,225.54858934169283 1100.0,225.54858934169283
+                C808.3333333333333,140.90909090909093 891.6666666666667,225.54858934169283 933.3333333333334,225.54858934169283
+            
+            
+            
+            
+                
+                
+                
+                
+                C975.0,225.54858934169283 1058.3333333333333,535.8934169278997 1100.0,535.8934169278997
             "
     />
     
@@ -226,7 +245,7 @@
                 
                 
                 
-                C150.0,535.8934169278997 250.0,535.8934169278997 300.0,535.8934169278997
+                C141.66666666666666,535.8934169278997 224.99999999999997,535.8934169278997 266.66666666666663,535.8934169278997
             
             
             
@@ -235,7 +254,7 @@
                 
                 
                 
-                C350.0,535.8934169278997 450.0,535.8934169278997 500.0,535.8934169278997
+                C308.3333333333333,535.8934169278997 391.66666666666663,535.8934169278997 433.3333333333333,535.8934169278997
             
             
             
@@ -244,7 +263,7 @@
                 
                 
                 
-                C550.0,535.8934169278997 650.0,535.8934169278997 700.0,535.8934169278997
+                C475.0,535.8934169278997 558.3333333333334,535.8934169278997 600.0,535.8934169278997
             
             
             
@@ -253,7 +272,7 @@
                 
                 
                 
-                C750.0,535.8934169278997 850.0,451.2539184952978 900.0,451.2539184952978
+                C641.6666666666666,535.8934169278997 725.0,451.2539184952978 766.6666666666666,451.2539184952978
             
             
             
@@ -262,7 +281,16 @@
                 
                 
                 
-                C950.0,451.2539184952978 1050.0,380.72100313479626 1100.0,380.72100313479626
+                C808.3333333333333,451.2539184952978 891.6666666666667,380.72100313479626 933.3333333333334,380.72100313479626
+            
+            
+            
+            
+                
+                
+                
+                
+                C975.0,380.72100313479626 1058.3333333333333,550.0 1100.0,550.0
             "
     />
     
@@ -278,36 +306,43 @@
         
         
         
-        <circle cx="300.0" cy="521.7868338557994" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.25s" fill="freeze" />
+        <circle cx="266.66666666666663" cy="521.7868338557994" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.21428571428571427s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="500.0" cy="550.0" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.5s" fill="freeze" />
+        <circle cx="433.3333333333333" cy="550.0" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.42857142857142855s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="700.0" cy="479.46708463949847" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.75s" fill="freeze" />
+        <circle cx="600.0" cy="479.46708463949847" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6428571428571429s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="900.0" cy="140.90909090909093" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0s" fill="freeze" />
+        <circle cx="766.6666666666666" cy="140.90909090909093" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.8571428571428571s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="1100.0" cy="225.54858934169283" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.25s" fill="freeze" />
+        <circle cx="933.3333333333334" cy="225.54858934169283" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0714285714285714s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="1100.0" cy="535.8934169278997" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2857142857142858s" fill="freeze" />
         </circle>
     
     
@@ -323,36 +358,43 @@
         
         
         
-        <circle cx="300.0" cy="535.8934169278997" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.25s" fill="freeze" />
+        <circle cx="266.66666666666663" cy="535.8934169278997" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.21428571428571427s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="500.0" cy="535.8934169278997" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.5s" fill="freeze" />
+        <circle cx="433.3333333333333" cy="535.8934169278997" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.42857142857142855s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="700.0" cy="535.8934169278997" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.75s" fill="freeze" />
+        <circle cx="600.0" cy="535.8934169278997" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.6428571428571429s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="900.0" cy="451.2539184952978" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0s" fill="freeze" />
+        <circle cx="766.6666666666666" cy="451.2539184952978" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.8571428571428571s" fill="freeze" />
         </circle>
     
         
         
         
-        <circle cx="1100.0" cy="380.72100313479626" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.25s" fill="freeze" />
+        <circle cx="933.3333333333334" cy="380.72100313479626" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0714285714285714s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
+        <circle cx="1100.0" cy="550.0" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.2857142857142858s" fill="freeze" />
         </circle>
     
         
@@ -362,7 +404,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0s" fill="freeze" />
             <rect x="130" y="115" width="233" height="30" rx="5" ry="5" fill="#2f80ed" fill-opacity="0.5" />
             <text x="140" y="137" font-family="Arial" font-size="20" fill="#434d58">
-                Total PRs Authored: <tspan font-weight="bold">59</tspan>
+                Total PRs Authored: <tspan font-weight="bold">60</tspan>
             </text>
         </g>
     </a>
