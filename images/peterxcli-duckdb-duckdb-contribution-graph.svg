@@ -58,6 +58,9 @@
             <line x1="100.0" y1="100" x2="100.0" y2="550" stroke-opacity="0.6"/>
         
             
+            <line x1="600.0" y1="100" x2="600.0" y2="550" stroke-opacity="0.6"/>
+        
+            
             <line x1="1100.0" y1="100" x2="1100.0" y2="550" stroke-opacity="0.6"/>
         
     </g>
@@ -99,8 +102,15 @@
     
     
         
-        <text x="1100.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 1100.0, 580)" fill="#434d58">
+        <text x="600.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 600.0, 580)" fill="#434d58">
             2026-04
+        </text>
+    
+    
+    
+        
+        <text x="1100.0" y="580" font-family="Arial" font-size="18" text-anchor="middle" transform="rotate(0, 1100.0, 580)" fill="#434d58">
+            2026-09
         </text>
     
     
@@ -128,7 +138,16 @@
                 
                 
                 
-                C350.0,140.90909090909093 850.0,345.4545454545455 1100.0,345.4545454545455
+                C225.0,140.90909090909093 475.0,345.4545454545455 600.0,345.4545454545455
+            
+            
+            
+            
+                
+                
+                
+                
+                C725.0,345.4545454545455 975.0,345.4545454545455 1100.0,345.4545454545455
             "
     />
     
@@ -150,7 +169,16 @@
                 
                 
                 
-                C350.0,550.0 850.0,550.0 1100.0,550.0
+                C225.0,550.0 475.0,550.0 600.0,550.0
+            
+            
+            
+            
+                
+                
+                
+                
+                C725.0,550.0 975.0,550.0 1100.0,550.0
             "
     />
     
@@ -166,8 +194,15 @@
         
         
         
+        <circle cx="600.0" cy="345.4545454545455" r="5" fill="#2f80ed" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.5s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
         <circle cx="1100.0" cy="345.4545454545455" r="5" fill="#2f80ed" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.75s" fill="freeze" />
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0s" fill="freeze" />
         </circle>
     
     
@@ -183,8 +218,15 @@
         
         
         
+        <circle cx="600.0" cy="550.0" r="5" fill="#4c71f2" opacity="0">
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.5s" fill="freeze" />
+        </circle>
+    
+        
+        
+        
         <circle cx="1100.0" cy="550.0" r="5" fill="#4c71f2" opacity="0">
-            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.75s" fill="freeze" />
+            <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.0s" fill="freeze" />
         </circle>
     
         
@@ -194,7 +236,7 @@
             <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0s" fill="freeze" />
             <rect x="130" y="115" width="233" height="30" rx="5" ry="5" fill="#2f80ed" fill-opacity="0.5" />
             <text x="140" y="137" font-family="Arial" font-size="20" fill="#434d58">
-                Total PRs Authored: <tspan font-weight="bold">3</tspan>
+                Total PRs Authored: <tspan font-weight="bold">4</tspan>
             </text>
         </g>
     </a>
